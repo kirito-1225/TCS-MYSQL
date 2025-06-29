@@ -1,5 +1,6 @@
 # TCS-MYSQL
 
+sql files contain outputs also
 
 We use mysql workbench to create database, tables and input data. Also Triggers, Functions, Views, Procedures also done in mysql workbench.
 
